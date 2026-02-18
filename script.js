@@ -54,7 +54,7 @@ cloverButton3.addEventListener('click', () => {
         cloverButton3.style.backgroundColor = "#D24211";
     }
     else {
-        clover3.src ="files/clover3real.png";
+        clover3.src ="files/IMG_6077.png";
         cloverButton3.innerHTML = 'Show';
         cloverButton3.style.backgroundColor = "#879D3C";
     }
